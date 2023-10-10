@@ -25,7 +25,7 @@ Aplikasi Showcase Tank dirancang untuk menampilkan berbagai aspek tentang tank, 
 - **Integrasi Glide**: Gambar-gambar tank dimuat secara mulus menggunakan perpustakaan Glide, meningkatkan kinerja aplikasi dan kemampuan penyimpanan cache gambar.
 
 - **Detail Tank**: Pengguna dapat mengetuk tank tertentu untuk mengakses informasi terperinci tentangnya, termasuk spesifikasi, sejarah, dan gambar.
-- 
+  
 - **Share**: Pengguna dapat membagikan informasi mengenai tank yang sedang dibuka.
 
 - **Desain Ramah Pengguna**: Aplikasi ini memiliki desain yang intuitif dan ramah pengguna untuk memastikan pengalaman pengguna yang menyenangkan.
