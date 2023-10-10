@@ -1,0 +1,195 @@
+<resources>
+    <string name="app_name">AllAboutTanks</string>
+    <string name="heroes_name">Nama Tank</string>
+    <string name="description">Deskripsi</string>
+    <string name="action_about">About</string>
+    <string name="senjata_utama">Senjata Utama\t\t\t\t\t\t:</string>
+    <string name="nilai_spesifikasi">%s</string>
+    <string name="senjata_sekunder">Senjata Sekunder\t\t\t\t:</string>
+    <string name="berat">Berat\t\t\t\t\t\t\t\t\t\t\t:</string>
+    <string name="kecepatan_maksimum">Kecepatan Maksimum\t:</string>
+    <string name="ketebalan_armour">Ketebalan Armour\t\t\t\t:</string>
+    <string name="tank_history">Tank History</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="sejarah">Sejarah</string>
+    <string name="column2">:</string>
+    <string name="name">Muhammad Eri Setyawan</string>
+    <string name="email">erisetyawan1@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>M1 Abrams</item>
+        <item>Leopard 2A4</item>
+        <item>Challenger Mk.2</item>
+        <item>T-80BVM</item>
+        <item>Type 10</item>
+        <item>Merkava Mk.4M</item>
+        <item>M3A3 Bradley</item>
+        <item>Leopard 2 PL</item>
+        <item>ADATS (M113)</item>
+        <item>Khrizantema-S</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Tank tempur utama milik Angkatan Darat Amerika Serikat. Berat, kuat, dilengkapi meriam 120mm, dan memiliki perlindungan baja. Tank ini menggunakan mesin gas turbine untuk kecepatan tinggi.</item>
+        <item>Tank tempur utama yang digunakan oleh banyak negara, termasuk Jerman. Tank ini memiliki berat lebih dari 60 ton dan dilengkapi dengan meriam utama 120mm, perlindungan berlapis baja yang kuat, serta sistem komunikasi dan navigasi modern.</item>
+        <item>Tank tempur utama yang digunakan oleh Angkatan Darat Britania Raya. Ini adalah tank yang sangat berat dan kuat, dengan berat lebih dari 60 ton. Challenger 2 dilengkapi dengan meriam utama 120mm yang sangat akurat, perlindungan berlapis baja yang sangat kuat, dan sistem komunikasi dan navigasi modern. Tank ini diakui karena tingkat perlindungannya yang tinggi dan kemampuan operasionalnya yang baik di berbagai kondisi medan.</item>
+        <item>Tank tempur utama yang dikembangkan oleh Rusia. Ini adalah versi yang telah diperbarui dari tank T-80, yang dikenal karena kecepatan tinggi dan kemampuan tembak yang kuat. T-80BVM dilengkapi dengan senjata utama 125mm, perlindungan berlapis baja yang ditingkatkan, serta sistem elektronik dan navigasi modern. Tank ini cocok untuk berbagai jenis medan dan telah digunakan dalam Angkatan Darat Rusia serta beberapa negara lainnya.</item>
+        <item>Tank tempur utama yang diproduksi oleh Jepang. Tank ini adalah tank generasi terbaru yang ringan, cepat, dan dilengkapi dengan meriam utama 120mm serta perlindungan yang canggih. Type 10 dirancang untuk mobilitas tinggi dan kemampuan tempur modern. Ini adalah tank yang efisien dalam konsumsi bahan bakar dan cocok untuk operasi di medan perkotaan serta medan terbuka.</item>
+        <item>Tank tempur utama yang digunakan oleh Angkatan Pertahanan Israel. Ini adalah tank berat yang kuat, dirancang dengan perlindungan yang sangat baik dan meriam utama 120mm. Merkava Mk.4M memiliki kemampuan pertahanan tinggi dan sistem perlindungan pasif serta aktif yang canggih. Tank ini juga dilengkapi dengan sistem komunikasi dan navigasi modern serta kemampuan operasi di berbagai kondisi medan.</item>
+        <item>Kendaraan tempur infanteri yang digunakan oleh Angkatan Darat Amerika Serikat. Ini adalah kendaraan lapis baja yang dilengkapi dengan senjata utama meriam 25mm dan peluncur rudal. M3A3 Bradley dirancang untuk mengangkut pasukan infanteri dan memberikan dukungan tembakan kepada mereka dalam pertempuran. Kendaraan ini memiliki sistem komunikasi dan navigasi yang canggih serta perlindungan yang moderat terhadap ancaman musuh.</item>
+        <item>Varian dari tank tempur utama Leopard 2 yang digunakan oleh Angkatan Darat Polandia. Ini adalah tank yang kuat dan modern, dilengkapi dengan meriam utama 120mm serta perlindungan berlapis baja yang ditingkatkan. Leopard 2 PL dirancang untuk operasi di berbagai medan dan telah digunakan oleh Polandia sebagai salah satu kendaraan tempur utamanya.</item>
+        <item>Pada dasarnya bukanlah tank tempur, tetapi sistem pertahanan udara dan anti-tank yang digunakan dalam kendaraan M113. Ini adalah sistem pertahanan udara yang ditingkatkan yang dilengkapi dengan rudal anti-tank dan rudal permukaan-ke-udara. Tank ADATS (M113) digunakan untuk melindungi pasukan dari ancaman udara dan tank musuh serta memberikan dukungan pertahanan udara yang efektif.</item>
+        <item>sistem rudal anti-tank yang dikembangkan oleh Rusia. Ini adalah sistem yang sangat canggih yang dirancang untuk melawan tank musuh. Khrizantema-S dilengkapi dengan rudal anti-tank yang sangat akurat dan memiliki jarak tembak yang jauh. Sistem ini juga memiliki kemampuan penembakan ganda dan dapat mengatasi ancaman tank musuh yang kuat. Khrizantema-S cocok untuk operasi di medan perang modern.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://wiki.warthunder.com/images/thumb/d/da/GarageImage_M1_Abrams.jpg/1200px-GarageImage_M1_Abrams.jpg</item>
+        <item>https://wiki.warthunder.com/images/thumb/0/0c/GarageImage_Leopard_2A4.jpg/1200px-GarageImage_Leopard_2A4.jpg</item>
+        <item>https://wiki.warthunder.com/images/thumb/f/f2/GarageImage_Challenger_Mk.2.jpg/1200px-GarageImage_Challenger_Mk.2.jpg</item>
+        <item>https://wiki.warthunder.com/images/thumb/f/f4/GarageImage_T-80BVM.jpg/1200px-GarageImage_T-80BVM.jpg</item>
+        <item>https://wiki.warthunder.com/images/thumb/e/e0/GarageImage_Type_10.jpg/1200px-GarageImage_Type_10.jpg</item>
+        <item>https://wiki.warthunder.com/images/thumb/1/19/GarageImage_Merkava_Mk.4M.jpg/1200px-GarageImage_Merkava_Mk.4M.jpg</item>
+        <item>https://wiki.warthunder.com/images/thumb/0/0b/GarageImage_M3A3_Bradley.jpg/1200px-GarageImage_M3A3_Bradley.jpg</item>
+        <item>https://wiki.warthunder.com/images/thumb/6/65/GarageImage_Leopard_2_PL.jpg/1200px-GarageImage_Leopard_2_PL.jpg</item>
+        <item>https://wiki.warthunder.com/images/thumb/b/b8/GarageImage_ADATS_%28M113%29.jpg/1200px-GarageImage_ADATS_%28M113%29.jpg</item>
+        <item>https://wiki.warthunder.com/images/thumb/b/be/GarageImage_Khrizantema-S.jpg/1200px-GarageImage_Khrizantema-S.jpg</item>
+    </string-array>
+
+    <string-array name="data_senjata_utama">
+        <item>105mm M68A1 rifled gun</item>
+        <item>Rheinmetall 120mm smoothbore gun</item>
+        <item>L30A1 120mm rifled gun</item>
+        <item>2A46M-5 125mm smoothbore gun</item>
+        <item>120mm smoothbore gun</item>
+        <item>Rheinmetall 120mm smoothbore gun</item>
+        <item>M242 Bushmaster 25mm chain gun</item>
+        <item>Rheinmetall 120mm smoothbore gun</item>
+        <item>ADATS missile system</item>
+        <item>Ataka supersonic anti-tank guided missiles</item>
+
+
+    </string-array>
+
+    <string-array name="data_senjata_sekunder">
+        <item>M2 Browning .50 caliber machine gun</item>
+        <item>MG3 7.62mm machine gun</item>
+        <item>L94A1 7.62mm chain gun</item>
+        <item>PKTM 7.62mm machine gun</item>
+        <item>M2 Browning 12.7mm machine gun</item>
+        <item>M2 Browning 12.7mm machine gun</item>
+        <item>TOW anti-tank guided missiles</item>
+        <item>MG3 7.62mm machine gun</item>
+        <item>M2 Browning 12.7mm machine gun</item>
+        <item>7.62mm PKTM machine gun</item>
+
+
+    </string-array>
+
+    <string-array name="data_berat">
+        <item>61.4 ton</item>
+        <item>55.15 tons</item>
+        <item>62.5 tons</item>
+        <item>46 tons</item>
+        <item>48 tons</item>
+        <item>65 tons</item>
+        <item>27.6 tons</item>
+        <item>62 tons</item>
+        <item>14.6 tons</item>
+        <item>9.7 tons</item>
+
+
+    </string-array>
+
+    <string-array name="data_kecepatan_maksimum">
+        <item>70 mph (112.65 km/h)</item>
+        <item>43 mph (70 km/h)</item>
+        <item>56 mph (90 km/h)</item>
+        <item>43 mph (70 km/h)</item>
+        <item>43 mph (70 km/h)</item>
+        <item>40 mph (64 km/h)</item>
+        <item>41 mph (66 km/h)</item>
+        <item>43 mph (70 km/h)</item>
+        <item>40 mph (65 km/h)</item>
+        <item>43 mph (70 km/h)</item>
+
+
+    </string-array>
+
+    <string-array name="data_ketebalan_armor">
+        <item>Frontal: 450 mm, Turret: 650 mm</item>
+        <item>Frontal: 500 mm, Turret: 800 mm</item>
+        <item>Frontal: 450 mm, Turret: 800 mm</item>
+        <item>Frontal: Classified, Turret: Classified</item>
+        <item>Frontal: Classified, Turret: Classified</item>
+        <item>Frontal: Classified, Turret: Classified</item>
+        <item>Frontal: Classified, Turret: Classified</item>
+        <item>Frontal: Classified, Turret: Classified</item>
+        <item>Frontal: Classified, Turret: Classified</item>
+        <item>Frontal: Classified</item>
+
+
+    </string-array>
+
+    <string-array name="data_sejarah">
+        <item>Tank M1 Abrams adalah salah satu tank tempur utama yang paling ikonik dan kuat yang pernah dibuat. Ia pertama kali diperkenalkan oleh Angkatan Darat Amerika Serikat pada tahun 1980 dan telah menjadi tulang punggung kekuatan tank mereka sejak itu.
+
+Pengembangan M1 Abrams dimulai pada tahun 1970-an sebagai tanggapan terhadap pengalaman dalam Perang Vietnam. Tujuannya adalah untuk menghasilkan tank yang lebih ringan, lebih cepat, dan lebih mudah dipertahankan daripada pendahulunya, seperti tank M60 Patton. Hasilnya adalah tank yang sangat sukses yang menetapkan standar dalam kecepatan, keandalan, dan kekuatan tembak.
+
+M1 Abrams ditenagai oleh mesin gas turbina yang kuat, yang memberikannya kecepatan tinggi dan kemampuan manuver yang luar biasa untuk sebuah tank berat. Senjata utamanya adalah meriam 105mm M68A1 yang akurat dan mematikan. Ini juga dilengkapi dengan senjata sekunder yang termasuk mesin senapan kaliber .50 dan senapan mesin kaliber 7.62mm.
+
+Tank ini juga dikenal karena perlindungannya yang kuat. Ketebalan armor frontalnya mencapai 450 mm, sementara turretnya dilindungi dengan armor setebal 650 mm. Perlindungan yang kuat ini membuatnya tahan terhadap tembakan musuh yang mengancam.
+
+Sejak diperkenalkan, M1 Abrams telah mengalami berbagai pembaruan dan modifikasi untuk menjaga daya saingnya. Ia telah digunakan dalam berbagai konflik di seluruh dunia, termasuk Perang Teluk, Perang Irak, dan konflik-konflik terkini. Tank ini terbukti sebagai salah satu yang terbaik dalam kelasnya dan akan tetap menjadi komponen penting dari kekuatan tank Angkatan Darat Amerika Serikat dalam waktu yang lama.</item>
+
+        <item>
+        Tank Leopard 2A4 adalah salah satu tank tempur terkemuka yang dirancang dan diproduksi di Jerman oleh Krauss-Maffei Wegmann. Diperkenalkan pada tahun 1985, tank ini adalah hasil dari pengembangan berkelanjutan dari varian Leopard 2 sebelumnya. Leopard 2A4 memiliki daya tembak yang luar biasa dengan meriam Rheinmetall 120mm yang akurat dan efektif. Senjata ini dikombinasikan dengan teknologi modern yang membuat Leopard 2A4 sangat efisien dalam pertempuran tank. Tank ini juga dikenal dengan kecepatannya yang tinggi, mencapai 43 mph (70 km/h) di jalan raya, sehingga memungkinkan mobilitas tinggi di medan perang. Leopard 2A4 telah digunakan oleh berbagai negara, termasuk Jerman, Belanda, Yunani, dan banyak lainnya. Tank ini telah terbukti sebagai salah satu yang terbaik dalam kelasnya dan terus menjadi tulang punggung pasukan tank mereka. Selain kekuatan tempur yang hebat, Leopard 2A4 juga dikenal dengan perlindungannya yang sangat baik. Ketebalan armor frontalnya mencapai 500 mm, sementara turret dilindungi dengan armor setebal 800 mm. Ini menjadikan tank ini sulit dihancurkan oleh tembakan musuh. Leopard 2A4 adalah salah satu tank terkemuka di dunia dan telah terbukti dalam berbagai konflik dan latihan militer di seluruh dunia. Tank ini adalah simbol kekuatan dan teknologi canggih dalam dunia militer.
+    </item>
+
+        <item>        Tank Challenger Mk.2 adalah salah satu tank tempur utama yang digunakan oleh Angkatan Darat Britania Raya. Versi ini merupakan hasil pengembangan dari varian Challenger 2 yang telah terbukti dalam pelayanan militer. Challenger Mk.2 memiliki senjata utama L30A1 120mm yang efisien dalam menghadapi berbagai ancaman di medan pertempuran. Tank ini juga dilengkapi dengan senjata sekunder L94A1 7.62mm yang memperkuat kemampuan serangannya. Salah satu keunggulan utama dari tank ini adalah perlindungannya yang sangat baik. Dengan ketebalan armor frontal mencapai 450 mm dan turretnya dilindungi oleh armor setebal 800 mm, Challenger Mk.2 dapat bertahan dari berbagai jenis serangan musuh. Kecepatan tinggi adalah salah satu fitur khas dari Challenger Mk.2, yang mencapai 56 mph (90 km/h) di jalan raya, memungkinkan mobilitas yang sangat baik dalam operasi militer. Tank ini telah digunakan dalam berbagai konflik dan latihan militer oleh Britania Raya dan sekutu mereka, dan terbukti sebagai salah satu tank terkemuka dalam kelasnya.
+                </item>
+
+        <item>
+        T-80BVM adalah tank tempur utama yang digunakan oleh Angkatan Darat Rusia. Versi ini merupakan pengembangan dari tank T-80 yang telah terbukti dalam berbagai konflik. T-80BVM dilengkapi dengan senjata utama 2A46M-5 125mm yang sangat akurat dan memiliki kemampuan menembus berbagai jenis armor musuh. Tank ini juga dilengkapi dengan senjata sekunder PKTM 7.62mm yang memperkuat kemampuan pertahanannya. Kecepatan tinggi adalah salah satu keunggulan utama dari T-80BVM, mencapai 70 km/h (43 mph) di jalan raya, sehingga memungkinkan mobilitas yang sangat baik di medan perang. Informasi tentang ketebalan armor frontal dan turretnya diklasifikasikan, namun T-80BVM dikenal memiliki perlindungan yang sangat baik terhadap ancaman musuh. Tank ini telah digunakan oleh Angkatan Darat Rusia dan beberapa negara lainnya dalam berbagai konflik. T-80BVM adalah salah satu tank terkemuka dalam kelasnya dan terus menjadi bagian penting dari kekuatan militer Rusia. Tank ini memiliki sejarah yang panjang dalam pelayanan militer dan terus berkembang dengan teknologi terbaru.
+    </item>
+
+        <item>
+        Type 10 adalah tank tempur utama yang digunakan oleh Angkatan Darat Bela Diri Jepang. Tank ini merupakan produk terbaru dari perkembangan teknologi militer Jepang dan memiliki kemampuan tinggi dalam berbagai aspek. Tank ini dilengkapi dengan senjata utama 120mm smoothbore gun yang efisien dalam menghadapi berbagai ancaman di medan pertempuran. Selain itu, Type 10 juga memiliki senjata sekunder M2 Browning 12.7mm machine gun yang dapat digunakan untuk pertahanan terhadap target infanteri dan udara. Kecepatan tinggi adalah salah satu fitur utama dari Type 10, yang mencapai 70 km/h (43 mph) di jalan raya, memungkinkan mobilitas yang sangat baik di medan perang. Informasi tentang ketebalan armor frontal dan turretnya diklasifikasikan, namun Type 10 dikenal memiliki perlindungan yang baik. Tank ini merupakan bagian penting dari kekuatan militer Jepang dan terus menjadi simbol teknologi militer terkini.
+    </item>
+
+        <item>
+        Merkava Mk.4M adalah tank tempur utama yang digunakan oleh Angkatan Pertahanan Israel. Tank ini merupakan hasil pengembangan dari seri Merkava yang telah terbukti dalam berbagai konflik. Merkava Mk.4M dilengkapi dengan senjata utama Rheinmetall 120mm smoothbore gun yang sangat akurat dan memiliki kemampuan menembus berbagai jenis armor musuh. Tank ini juga dilengkapi dengan senjata sekunder M2 Browning 12.7mm machine gun yang dapat digunakan untuk pertahanan terhadap target infanteri dan udara. Kecepatan tinggi adalah salah satu fitur utama dari Merkava Mk.4M, yang mencapai 64 km/h (40 mph) di jalan raya, memungkinkan mobilitas yang sangat baik di medan perang. Informasi tentang ketebalan armor frontal dan turretnya diklasifikasikan, namun Merkava Mk.4M dikenal memiliki perlindungan yang sangat baik terhadap ancaman musuh. Tank ini telah digunakan oleh Angkatan Pertahanan Israel dalam berbagai konflik dan merupakan tulang punggung kekuatan pertahanan mereka.
+    </item>
+
+        <item>
+        M3A3 Bradley adalah kendaraan tempur infanteri yang digunakan oleh Angkatan Darat Amerika Serikat. Kendaraan ini dirancang untuk memberikan perlindungan dan mobilitas bagi pasukan infanteri dalam pertempuran. Bradley dilengkapi dengan senjata utama M242 Bushmaster 25mm chain gun yang efektif dalam menghadapi target infanteri dan kendaraan ringan. Selain itu, kendaraan ini juga dilengkapi dengan sistem peluncuran TOW anti-tank guided missiles yang dapat digunakan untuk melawan tank musuh. Kecepatan tinggi adalah salah satu fitur utama dari M3A3 Bradley, yang mencapai 66 km/h (41 mph) di jalan raya, memungkinkan mobilitas yang sangat baik di medan perang. Informasi tentang ketebalan armor frontal dan turretnya diklasifikasikan, namun Bradley dikenal memiliki perlindungan yang baik terhadap ancaman musuh. Kendaraan ini telah digunakan oleh Angkatan Darat Amerika Serikat dalam berbagai konflik di seluruh dunia dan merupakan komponen penting dari pasukan mereka.
+    </item>
+
+        <item>
+        Leopard 2 PL adalah tank tempur utama yang digunakan oleh Angkatan Darat Polandia. Tank ini merupakan varian dari keluarga Leopard 2 yang sangat dihormati, dan Polandia menjadi salah satu pengguna utama tank ini. Leopard 2 PL dilengkapi dengan senjata utama Rheinmetall 120mm smoothbore gun yang sangat akurat dan efisien dalam menghadapi berbagai ancaman di medan pertempuran. Selain itu, tank ini juga dilengkapi dengan senjata sekunder MG3 7.62mm machine gun yang dapat digunakan untuk pertahanan terhadap target infanteri dan udara. Kecepatan tinggi adalah salah satu fitur utama dari Leopard 2 PL, yang mencapai 70 km/h (43 mph) di jalan raya, memungkinkan mobilitas yang sangat baik di medan perang. Informasi tentang ketebalan armor frontal dan turretnya diklasifikasikan, namun Leopard 2 PL dikenal memiliki perlindungan yang baik terhadap ancaman musuh. Tank ini merupakan aset penting dalam pertahanan Polandia dan terus ditingkatkan dalam kapasitas pertempuran mereka.
+    </item>
+
+        <item>
+        ADATS (Air Defense Anti-Tank System) adalah sistem pertahanan udara dan anti-tank yang diintegrasikan dengan kendaraan M113. Sistem ini dirancang untuk memberikan perlindungan terhadap ancaman udara dan tank musuh. ADATS dilengkapi dengan senjata utama berupa ADATS missile system yang mampu menghadapi berbagai jenis ancaman udara dan tank. Selain itu, kendaraan ini juga dilengkapi dengan senjata sekunder M2 Browning 12.7mm machine gun yang dapat digunakan untuk pertahanan terhadap target infanteri. Dengan berat 14.6 ton, ADATS memiliki kecepatan maksimum sekitar 65 km/h (40 mph) di jalan raya, yang memungkinkan mobilitas yang baik di medan perang. Informasi tentang ketebalan armor frontal dan turretnya diklasifikasikan, namun ADATS dikenal memiliki perlindungan yang baik terhadap ancaman musuh. Sistem ini menjadi komponen penting dalam pertahanan darat yang efektif.
+    </item>
+
+        <item>
+        Khrizantema-S adalah sistem antitank yang digunakan oleh pasukan militer Rusia. Sistem ini dirancang untuk melawan tank dan kendaraan berat musuh dengan menggunakan rudal anti-tank supersonik Ataka. Khrizantema-S dilengkapi dengan senjata utama berupa rudal Ataka supersonic anti-tank guided missiles yang sangat akurat dan memiliki kemampuan menembus berbagai jenis armor. Selain itu, kendaraan ini juga dilengkapi dengan senjata sekunder 7.62mm PKTM machine gun yang dapat digunakan untuk pertahanan terhadap target infanteri. Dengan berat 9.7 ton, Khrizantema-S memiliki kecepatan maksimum sekitar 70 km/h (43 mph), yang memungkinkan mobilitas yang baik di medan perang. Informasi tentang ketebalan armor frontalnya diklasifikasikan. Sistem ini menjadi komponen penting dalam kemampuan anti-tank pasukan militer Rusia dan digunakan dalam berbagai konflik.
+    </item>
+
+    </string-array>
+
+    <string-array name="data_link">
+        <item>https://wiki.warthunder.com/M1_Abrams</item>
+        <item>https://wiki.warthunder.com/Leopard_2A4</item>
+        <item>https://wiki.warthunder.com/Challenger_Mk.2</item>
+        <item>https://wiki.warthunder.com/T-80BVM</item>
+        <item>https://wiki.warthunder.com/Type_10</item>
+        <item>https://wiki.warthunder.com/Merkava_Mk.4M</item>
+        <item>https://wiki.warthunder.com/M3A3_Bradley</item>
+        <item>https://wiki.warthunder.com/Leopard_2_PL</item>
+        <item>https://wiki.warthunder.com/ADATS_(M113)</item>
+        <item>https://wiki.warthunder.com/Khrizantema-S</item>
+    </string-array>
+
+</resources>
+
